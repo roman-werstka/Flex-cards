@@ -1,0 +1,21 @@
+.page-content {
+  padding: 70px 40px;
+  width: 1280px;
+  margin: 0 auto;
+}
+
+.page-content__title {
+  color: #475009;
+  font-size: 50px;
+  line-height: 120%;
+  text-align: center;
+  margin: 0 0 30px;
+}
+
+.page-content__text {
+  color: #475009;
+  font-size: 30px;
+  line-height: 120%;
+  margin: 0 0 50px;
+  text-align: center;
+}
